@@ -52,9 +52,6 @@ After considering this, the size of the training set will be  44000 and the test
 
          
 
-
-
-
-
+    
 
 
