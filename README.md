@@ -51,7 +51,7 @@ After considering this, the size of the training set will be  44000 and the test
       Hence the overall design goes like:
 
          
-
+               PS: please refer to the document file in thios repository..!
     
 
 
